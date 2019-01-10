@@ -50,5 +50,3 @@ const template = <div>
 
 ReactDOM.render(template, document.getElementById('app'));
 
-// ReactDOM.render(<MyApp />, document.getElementById('app'));
-
