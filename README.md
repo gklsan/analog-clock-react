@@ -1,10 +1,8 @@
 # analog-clock-react
 
   * date-time
-  ---  
-  * r-analog-clock
   ---
-  
+  * r-analog-clock
   * react-clock
 
   
