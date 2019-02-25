@@ -3,7 +3,6 @@
   * date-time
   ---
   * r-analog-clock
-  ---
   * react-clock
 
   
