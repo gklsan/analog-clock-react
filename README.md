@@ -1,4 +1,4 @@
-# analog-clock-react
+# Analog Clock React
 
   * date-time
   * r-analog-clock
