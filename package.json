@@ -22,7 +22,7 @@
     "css-loader": "2.0.1",
     "date-time": "2.1.0",
     "live-server": "^1.2.1",
-    "node-sass": "4.11.0",
+    "node-sass": "7.0.0",
     "normalize.css": "8.0.1",
     "r-analog-clock": "1.0.1",
     "react": "16.6.3",
